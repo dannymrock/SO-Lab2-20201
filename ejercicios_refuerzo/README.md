@@ -1,4 +1,6 @@
+# Ejercicios de programación #
 
+A continuación se colocan unos ejercicios de analisis y programación relacionados con el API de procesos con el objetivo de evaluar la comprensión y uso de dicho API en la solución de problemas de programación en C.
 
 ## Analisis de código ##
 
