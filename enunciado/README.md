@@ -1,6 +1,6 @@
 # Enunciado - Unix Shell #
 
-(Nota: Tomada del libro de Remzi - esta es una traducción al español que puede tener muchos errores y a veces no ser fiel con lo que el autor quiere transmitir. Si desea leerla en ingles puede encontrar esto en el siguiente enlace)
+> **Nota**: Esta practica es una traducción de la práctica [Process Shell](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/processes-shell) del libro de Remzi. Esta traducción puede tener muchos errores y a veces no ser fiel con lo que el autor quiere transmitir. Si desea leerla en ingles puede encontrar esto en el siguiente [enlace](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/processes-shell).
 
 En esta practica, usted construirá un simple Unix shell. El shell es el corazon de la interface de linea de comandos, y por lo tanto es el ambiente de programación central de Unix/C. 
 
