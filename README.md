@@ -19,6 +19,12 @@ Para el siguiente laboratorio se deben realizar los siguientes ejercicios:
 1. Del directorio de [ejercicios de refuerzo](./ejercicios_refuerzo) realizar solo el **ejercicio 7** de la sección de **problemas de programación**.
 2. Realizar el **shell de unix** propuesto en la carpeta [enunciado](./enunciado) empleando los diferentes test que se brindan para tal fin.
 
+## Material a la mano ##
+
+Adjunto con el presente laboratorio, hay dos documentos de la UJI (Universitat Jaume I) muy buenos con los conceptos y con ejemplos que necesitan para el desarrollo la practica. Estos documentos son:
+1. [Introducción a la programación con C](./s29.pdf)
+2. [100 ejercicios resueltos de Sistemas Operativos](./s30.pdf)
+
 ## Importante comprender ##
 
 Para poder realizar la practica, es necesario comprender cabalmente los siguientes conceptos:
