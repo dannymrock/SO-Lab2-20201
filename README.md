@@ -31,9 +31,3 @@ Si no maneja estos conceptos; sobre el primero, por favor estudielos con detenim
 
 Tenga además en cuenta que se agregan bastantes ejemplos con el fin de que los analice con el fin de comprenderlos. Si tiene dificultades para entenderlos pregunte sin pena en el foro de piazza del curso y vea los videos que allí se compartieron. Recuerden, No hay pregunta boba, bobo es el que no pregunta
 
-
-# Laboratorio de procesos #
-
-**Enlaces**:
-1. [Ejercicios de refuerzo](./ejercicios_refuerzo)
-2. [Enunciado](./enunciado)
